@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "57139377223",
+    "firebase_url": "https://rake-3517c-default-rtdb.firebaseio.com",
+    "project_id": "rake-3517c",
+    "storage_bucket": "rake-3517c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57139377223:android:8164b85f0f37f7231bad62",
+        "android_client_info": {
+          "package_name": "com.rakeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57139377223-dgttfmv570si9gn0q0ko0kfu5hag3cfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bMJ5_pXooCz5rCZZcXApL5mws8TWx1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57139377223-dgttfmv570si9gn0q0ko0kfu5hag3cfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
